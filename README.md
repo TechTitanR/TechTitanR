@@ -10,6 +10,7 @@
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333?logo=python&logoColor=yellow)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-333?logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-333?logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333?logo=git&logoColor=white)
@@ -19,6 +20,9 @@
 ---
 
 ### 📌 Featured Projects
+- 📝 [`job-tracker`](https://github.com/TechTitanR/job-tracker) — Full-Stack Job Application Tracker: Flask + PostgreSQL based web app to manage job applications with Login, CRUD, Email Reminders, Auto-Scheduler, Export to Excel, and Render Deployment.
+- 🏢 [`crm_erp_app`](https://github.com/TechTitanR/crm_erp_project) — Lightweight CRM/ERP Web App: Python Flask-based Customer & Order Management system with dashboard, reports, and CRUD features—ideal for small businesses.
+- 🏬 [`mis-flask-app`](https://github.com/TechTitanR/mis-flask-app) — Business MIS Dashboard: Complete Management Information System for inventory, sales, employee management, auto-reporting, PDF/Excel export and data visualization using Chart.js.
 - 🔧 [`web-automation-bots`](https://github.com/TechTitanR/web-automation-bots) — Scraping & automation scripts to simplify daily tasks
 - 🗂️ [`todo-api`](https://github.com/TechTitanR/todo-api) — FastAPI-based JWT Auth + CRUD To-Do List API
 - 📊 [`expense-tracker-db`](https://github.com/TechTitanR/expense-tracker-db) — CLI tracker with SQLite backend
