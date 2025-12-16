@@ -1,50 +1,67 @@
-<h1 align="center">Hi 👋, I'm TechTitanR</h1>
+<h1 align="center">Hi 👋, I'm Rishi Bakliwal (TechTitanR)</h1>
+
 <p align="center">
-  🚀 BTech Student | Python Automation & Backend Developer  
-  <br/>
-  🌍 Based in India | Open to Remote Tech Opportunities
+🚀 Python Backend Developer | Building Production-Ready Flask & FastAPI Systems  
+<br/>
+🌍 India | Open to Backend / Python Developer Roles (Remote & Onsite)
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333?logo=python&logoColor=yellow)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333?logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-333?logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-333?logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-333?logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-333?logo=linux&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-333?logo=render&logoColor=white)
 
 ---
 
-### 📌 Featured Projects
-- 📝 [`job-tracker`](https://github.com/TechTitanR/job-tracker) — Full-Stack Job Application Tracker: Flask + PostgreSQL based web app to manage job applications with Login, CRUD, Email Reminders, Auto-Scheduler, Export to Excel, and Render Deployment.
-- 🏢 [`crm_erp_app`](https://github.com/TechTitanR/crm_erp_project) — Lightweight CRM/ERP Web App: Python Flask-based Customer & Order Management system with dashboard, reports, and CRUD features—ideal for small businesses.
-- 🏬 [`mis-flask-app`](https://github.com/TechTitanR/mis-flask-app) — Business MIS Dashboard: Complete Management Information System for inventory, sales, employee management, auto-reporting, PDF/Excel export and data visualization using Chart.js.
-- 🔧 [`web-automation-bots`](https://github.com/TechTitanR/web-automation-bots) — Scraping & automation scripts to simplify daily tasks
-- 🗂️ [`todo-api`](https://github.com/TechTitanR/todo-api) — FastAPI-based JWT Auth + CRUD To-Do List API
-- 📊 [`expense-tracker-db`](https://github.com/TechTitanR/expense-tracker-db) — CLI tracker with SQLite backend
-- 📨 [`email-scheduler`](https://github.com/TechTitanR/email-scheduler) — Automatically schedule and send emails via Python
+## 📌 Featured Projects
+
+### 📝 [job-tracker](https://github.com/TechTitanR/job-tracker)
+**Production-grade Job Application Tracker (Flask + PostgreSQL)**  
+- Authentication, role-based access, and CRUD workflows  
+- Email reminders, background scheduling, Excel export  
+- Deployed on Render with environment-based configuration
+
+### 🏬 [mis-flask-app](https://github.com/TechTitanR/mis-flask-app)
+**Business MIS Dashboard for Small Organizations**  
+- Inventory, sales, and employee management modules  
+- Auto-generated PDF/Excel reports and data visualization (Chart.js)  
+- Clean backend architecture with modular Flask blueprints
+
+### 🏢 [crm_erp_app](https://github.com/TechTitanR/crm_erp_project)
+**Lightweight CRM / ERP Web Application**  
+- Customer, order, and reporting management system  
+- Dashboard-driven insights for small business use cases  
+- Built with Flask, SQL databases, and clean MVC structure
+
+### 🗂️ [todo-api](https://github.com/TechTitanR/todo-api)
+**FastAPI-based REST API**  
+- JWT authentication and secure CRUD operations  
+- Async-ready API design with proper schema validation  
+- Designed for scalability and clean API consumption
 
 ---
 
-### 📚 Currently Learning
-- Advanced FastAPI & Deployment (Render, Railway)
-- Automating Workflows with Python + Shell
-- Freelancing Platforms & Remote Dev Tools
+## 📚 Currently Learning
+- FastAPI internals & async performance
+- Backend system design fundamentals
+- PostgreSQL optimization & indexing
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/rishi-bakliwal-1a5851244/)
 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat)](mailto:rishibakliwaljain@gmail.com)
 
 ---
 
-📈 **GitHub Stats**
-
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TechTitanR&show_icons=true&theme=gruvbox" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechTitanR&layout=compact&theme=gruvbox" height="150"/>
